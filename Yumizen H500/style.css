@@ -1,0 +1,101 @@
+.hero{
+    height: 99vh;
+    display: flex;
+    justify-content: center;
+
+}
+.box1{
+    background-color: blue;
+    width: 50%;
+}
+.box2{
+    background-color: white;;
+    width: 50%;
+}
+.text{
+    width: 492px;
+height: 98.2px;
+flex-shrink: 0;
+color: #FFF;
+font-family: Poppins;
+font-size: 75px;
+font-style: normal;
+font-weight: 700;
+line-height: 100%; /* 111.302px */
+}
+.content
+{
+    margin-top: 24vh;
+    padding: 4vh;
+}
+h3{
+    width: 600px;
+    height: 96px;
+
+    flex-shrink: 0;
+}
+.content{
+    margin-top: 20vh;
+}
+.body_text{
+   margin-top:8vh ;
+    color: #FFF;
+font-family: Poppins;
+font-size: 27px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+letter-spacing: 2.16px;
+}
+button{
+    border-radius: 29px;
+background: #FFF;
+display: flex;
+width: 176px;
+padding: 14px 20.582px 18px 21px;
+justify-content: center;
+align-items: center;
+}
+.cards{
+    
+    background-color: black;
+}
+.box{
+    width: 327px;
+height: 300px;
+flex-shrink: 0;
+border-radius: 12px;
+margin: 7vh;
+background-color: grey;
+}
+
+.row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.cards_heading{
+    background-color: black;
+    width: 100%;
+text-align: center;
+    color: #FFF;
+font-family: Poppins;
+font-size: 64px;
+font-style: normal;
+font-weight: 600;
+}
+.specifications{
+    background-color: white;
+    height: 60vh;
+}
+.specifications_heading{
+    background-color: white;
+    width: 100%;
+text-align: center;
+    color: #FFF;
+font-family: Poppins;
+font-size: 64px;
+font-style: normal;
+font-weight: 600;
+}
